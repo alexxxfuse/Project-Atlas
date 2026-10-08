@@ -1,4 +1,4 @@
-*Project Atlas*
+**Project Atlas**
 A global technology project created by students and tech enthusiasts.
 
 Our mission is to build innovative software, hardware, and AI projects while learning together.
